@@ -42,7 +42,7 @@ object Lists {
     * @throws java.util.NoSuchElementException if `xs` is an empty list
     */
   def max(xs: List[Int]): Int = {
-    if (xs.isEmpty) throw new Exception("Empty list")
+    if (xs.isEmpty) throw new NoSuchElementException
 
     def greaterOf(x: Int, y: Int): Int = {
       if (x > y) x else y
