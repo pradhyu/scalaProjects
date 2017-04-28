@@ -1,0 +1,1291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5270fbd2-c3de-43ea-8e36-53a008bdb24f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../streams/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/.idea/example.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/.idea/sbt.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/.idea/libraries/SBT__ch_epfl_lamp_scala_grading_runtime_2_11_0_3_jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/.idea/libraries/SBT__junit_junit_4_10_jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/.idea/libraries/SBT__org_hamcrest_hamcrest_core_1_1_jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/.idea/libraries/SBT__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_2_jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/.idea/libraries/SBT__org_scala_lang_modules_scala_pickling_2_11_0_10_0_jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/.idea/libraries/SBT__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/.idea/libraries/SBT__org_scala_lang_scala_compiler_2_11_4_jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/.idea/libraries/SBT__org_scala_lang_scala_library_2_11_7_jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/.idea/libraries/SBT__org_scala_lang_scala_reflect_2_11_4_jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/.idea/libraries/SBT__org_scalatest_scalatest_2_11_2_2_1_jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/.idea/modules/root-build.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/.idea/modules/root.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/.idea/sbt.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/.idea/scala_compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/assignment.sbt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/build.sbt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/CommonBuild.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/GradingFeedback.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/ScalaTestRunner.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/Settings.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/StudentBuild.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/StudentBuildLike.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/StyleChecker.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/build.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/buildSettings.sbt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/plugins.sbt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/project/target/config-classes/$0410028a74a7c2997911$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/project/target/config-classes/$0410028a74a7c2997911.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/project/target/config-classes/$0410028a74a7c2997911.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/project/target/config-classes/$522591d8208ce321f31a$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/project/target/config-classes/$522591d8208ce321f31a$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/project/target/config-classes/$522591d8208ce321f31a.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/project/target/config-classes/$522591d8208ce321f31a.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/project/target/config-classes/$56cbc1204170a8bf2a28$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/project/target/config-classes/$56cbc1204170a8bf2a28$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/project/target/config-classes/$56cbc1204170a8bf2a28.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/project/target/config-classes/$56cbc1204170a8bf2a28.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/project/target/config-classes/$dadd7302ad28802ea944$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/project/target/config-classes/$dadd7302ad28802ea944$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/project/target/config-classes/$dadd7302ad28802ea944.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/project/target/config-classes/$dadd7302ad28802ea944.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/project/target/config-classes/$e91e1b66297a5564bf7d$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/project/target/config-classes/$e91e1b66297a5564bf7d$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/project/target/config-classes/$e91e1b66297a5564bf7d.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/project/target/config-classes/$e91e1b66297a5564bf7d.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/config-classes/$000032bc0856a97043e0$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/config-classes/$000032bc0856a97043e0$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/config-classes/$000032bc0856a97043e0.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/config-classes/$000032bc0856a97043e0.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/config-classes/$1daa8c5c8effdd41434c$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/config-classes/$1daa8c5c8effdd41434c$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/config-classes/$1daa8c5c8effdd41434c.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/config-classes/$1daa8c5c8effdd41434c.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/config-classes/$2d611c3baa3c15a2c36f$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/config-classes/$2d611c3baa3c15a2c36f$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/config-classes/$2d611c3baa3c15a2c36f.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/config-classes/$2d611c3baa3c15a2c36f.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/config-classes/$46a251eea46a535e1a83$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/config-classes/$46a251eea46a535e1a83$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/config-classes/$46a251eea46a535e1a83.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/config-classes/$46a251eea46a535e1a83.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/config-classes/$509c97308008a942afc4$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/config-classes/$509c97308008a942afc4$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/config-classes/$509c97308008a942afc4.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/config-classes/$509c97308008a942afc4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/config-classes/$50efacaa6aadf631a642$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/config-classes/$50efacaa6aadf631a642$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/config-classes/$50efacaa6aadf631a642.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/config-classes/$50efacaa6aadf631a642.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/config-classes/$85287d17578fcdba55e1$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/config-classes/$85287d17578fcdba55e1$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/config-classes/$85287d17578fcdba55e1.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/config-classes/$85287d17578fcdba55e1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/config-classes/$b6da774f5b629aa8f94e$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/config-classes/$b6da774f5b629aa8f94e$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/config-classes/$b6da774f5b629aa8f94e.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/config-classes/$b6da774f5b629aa8f94e.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/config-classes/$b7ccce7fe5db10aeedb6$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/config-classes/$b7ccce7fe5db10aeedb6$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/config-classes/$b7ccce7fe5db10aeedb6.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/config-classes/$b7ccce7fe5db10aeedb6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/config-classes/$f46d3235def8d07bd81d$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/config-classes/$f46d3235def8d07bd81d$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/config-classes/$f46d3235def8d07bd81d.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/config-classes/$f46d3235def8d07bd81d.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/resolution-cache/default/example-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/resolution-cache/default/example-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/resolution-cache/reports/default-example-build-compile-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/resolution-cache/reports/default-example-build-compile.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/resolution-cache/reports/default-example-build-docs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/resolution-cache/reports/default-example-build-optional.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/resolution-cache/reports/default-example-build-plugin.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/resolution-cache/reports/default-example-build-pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/resolution-cache/reports/default-example-build-provided.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/resolution-cache/reports/default-example-build-runtime-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/resolution-cache/reports/default-example-build-runtime.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/resolution-cache/reports/default-example-build-scala-tool.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/resolution-cache/reports/default-example-build-sources.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/resolution-cache/reports/default-example-build-test-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/resolution-cache/reports/default-example-build-test.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/resolution-cache/reports/ivy-report.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/resolution-cache/reports/ivy-report.xsl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/Assignment$$anonfun$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/Assignment$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/Assignment.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/CommonBuild$class.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/CommonBuild.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/GradingFeedback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/GradingSummary$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/GradingSummary.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/MapMapString$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/MapMapString.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/RecordingLogger$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/RecordingLogger.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anon$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$invokeScalaTestInSeparateProcess$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$invokeScalaTestInSeparateProcess$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$GradingSummaryUnpickler1$2$$anon$1$$typecreator1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$GradingSummaryUnpickler1$2$$anon$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$GradingSummaryUnpickler1$2$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$LimitedStringBuffer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/Settings$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/Settings.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/StudentBuild$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/StudentBuild.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$1$$anonfun$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$1$$anonfun$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$1$$anonfun$4$$anonfun$apply$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$1$$anonfun$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$8$$anonfun$apply$10.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$8$$anonfun$apply$9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$prepareJar$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$prepareJar$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$prepareJar$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$prepareJar$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitLocalSetting$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$postSubmission$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/StyleChecker$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/StyleChecker$CustomTextOutput.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/StyleChecker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/classes/sbt/sbt.builds" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/scala-2.10/sbt-0.13/resource_managed/main/sbt/sbt.builds" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/streams/$global/$global/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/input_dsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/streams/$global/ivySbt/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/streams/$global/projectDescriptors/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/streams/$global/update/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/streams/compile/$global/$global/discoveredMainClasses/data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/streams/compile/compile/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/streams/compile/compileIncremental/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/streams/compile/compileIncremental/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/streams/compile/copyResources/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/streams/compile/exportedProducts/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/streams/compile/managedClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/streams/compile/readAnalysis/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/streams/compile/unmanagedClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/streams/compile/unmanagedJars/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/streams/runtime/exportedProducts/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/streams/runtime/fullClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/project/target/streams/runtime/unmanagedJars/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/src/main/scala/common/package.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/src/main/scala/example/Lists.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/src/main/scala/example/Variance-scala.wc.sc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/src/main/scala/example/Week1.collections.sc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/src/main/scala/example/Week1.patternmatching.ws.sc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/src/main/scala/scalaForInpatient/scalaForInpatient.sc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/src/main/scala/scalaForInpatient/x.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/src/test/scala/example/ListsSuite.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/.history" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/resolution-cache/progfun2-example/progfun2-example$sources_2.11/0.1-SNAPSHOT/resolved.xml.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/resolution-cache/progfun2-example/progfun2-example$sources_2.11/0.1-SNAPSHOT/resolved.xml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/resolution-cache/progfun2-example/progfun2-example_2.11/0.1-SNAPSHOT/resolved.xml.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/resolution-cache/progfun2-example/progfun2-example_2.11/0.1-SNAPSHOT/resolved.xml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/resolution-cache/reports/ivy-report.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/resolution-cache/reports/ivy-report.xsl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/resolution-cache/reports/progfun2-example-progfun2-example$sources_2.11-compile-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/resolution-cache/reports/progfun2-example-progfun2-example$sources_2.11-compile.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/resolution-cache/reports/progfun2-example-progfun2-example$sources_2.11-docs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/resolution-cache/reports/progfun2-example-progfun2-example$sources_2.11-optional.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/resolution-cache/reports/progfun2-example-progfun2-example$sources_2.11-plugin.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/resolution-cache/reports/progfun2-example-progfun2-example$sources_2.11-pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/resolution-cache/reports/progfun2-example-progfun2-example$sources_2.11-provided.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/resolution-cache/reports/progfun2-example-progfun2-example$sources_2.11-runtime-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/resolution-cache/reports/progfun2-example-progfun2-example$sources_2.11-runtime.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/resolution-cache/reports/progfun2-example-progfun2-example$sources_2.11-scala-tool.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/resolution-cache/reports/progfun2-example-progfun2-example$sources_2.11-sources.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/resolution-cache/reports/progfun2-example-progfun2-example$sources_2.11-test-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/resolution-cache/reports/progfun2-example-progfun2-example$sources_2.11-test.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/resolution-cache/reports/progfun2-example-progfun2-example_2.11-compile-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/resolution-cache/reports/progfun2-example-progfun2-example_2.11-compile.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/resolution-cache/reports/progfun2-example-progfun2-example_2.11-docs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/resolution-cache/reports/progfun2-example-progfun2-example_2.11-optional.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/resolution-cache/reports/progfun2-example-progfun2-example_2.11-plugin.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/resolution-cache/reports/progfun2-example-progfun2-example_2.11-pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/resolution-cache/reports/progfun2-example-progfun2-example_2.11-provided.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/resolution-cache/reports/progfun2-example-progfun2-example_2.11-runtime-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/resolution-cache/reports/progfun2-example-progfun2-example_2.11-runtime.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/resolution-cache/reports/progfun2-example-progfun2-example_2.11-scala-tool.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/resolution-cache/reports/progfun2-example-progfun2-example_2.11-sources.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/resolution-cache/reports/progfun2-example-progfun2-example_2.11-test-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/resolution-cache/reports/progfun2-example-progfun2-example_2.11-test.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/scala-2.11/classes/common/package$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/scala-2.11/classes/common/package.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/scala-2.11/classes/example/Lists$$anonfun$max$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/scala-2.11/classes/example/Lists$$anonfun$sum$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/scala-2.11/classes/example/Lists$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/scala-2.11/classes/example/Lists.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/scala-2.11/classes/example/Variance-scala.wc.sc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/scala-2.11/classes/example/Week1.collections.sc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/scala-2.11/classes/example/Week1.patternmatching.ws.sc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/scala-2.11/classes/scalaForInpatient/scalaForInpatient.sc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/scala-2.11/classes/scalaForInpatient/x.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/scala-2.11/progfun2-example_2.11-0.1-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/scala-2.11/test-classes/example/ListsSuite$$anonfun$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/scala-2.11/test-classes/example/ListsSuite$$anonfun$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/scala-2.11/test-classes/example/ListsSuite$$anonfun$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/scala-2.11/test-classes/example/ListsSuite$$anonfun$4$$anonfun$apply$mcV$sp$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/scala-2.11/test-classes/example/ListsSuite$$anonfun$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/scala-2.11/test-classes/example/ListsSuite$$anonfun$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/scala-2.11/test-classes/example/ListsSuite$$anonfun$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/scala-2.11/test-classes/example/ListsSuite.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/$global/$global/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/$global/$global/dumpStructure/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/$global/console/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/input_dsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/$global/ivySbt/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/$global/projectDescriptors/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/$global/submit/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/$global/update/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/$global/updateClassifiers/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/compile/$global/$global/discoveredMainClasses/data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/compile/compile/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/compile/compileIncremental/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/compile/compileIncremental/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/compile/console/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/compile/console/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/compile/copyResources/$global/streams/copy-resources" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/compile/copyResources/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/compile/dependencyClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/compile/exportedProducts/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/compile/fullClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/compile/internalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/compile/mainClass/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/compile/managedClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/compile/packageSubmission/$global/streams/inputs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/compile/packageSubmission/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/compile/packageSubmission/$global/streams/output" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/compile/run/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/compile/unmanagedClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/compile/unmanagedJars/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/runtime/dependencyClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/runtime/exportedProducts/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/runtime/fullClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/runtime/unmanagedJars/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/test/$global/$global/definedTestNames/data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/test/$global/$global/discoveredMainClasses/data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/test/compile/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/test/compileIncremental/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/test/compileIncremental/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/test/copyResources/$global/streams/copy-resources" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/test/copyResources/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/test/definedTests/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/test/dependencyClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/test/exportedProducts/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/test/externalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/test/fullClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/test/incCompileSetup/$global/streams/inc_compile_2.11" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/test/internalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/test/loadedTestFrameworks/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/test/managedClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/test/unmanagedClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/example/target/streams/test/unmanagedJars/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/target/resolution-cache/default/example_2.10/0.1-SNAPSHOT/resolved.xml.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/target/resolution-cache/default/example_2.10/0.1-SNAPSHOT/resolved.xml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/target/resolution-cache/reports/default-example_2.10-compile-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/target/resolution-cache/reports/default-example_2.10-compile.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/target/resolution-cache/reports/default-example_2.10-docs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/target/resolution-cache/reports/default-example_2.10-optional.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/target/resolution-cache/reports/default-example_2.10-plugin.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/target/resolution-cache/reports/default-example_2.10-pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/target/resolution-cache/reports/default-example_2.10-provided.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/target/resolution-cache/reports/default-example_2.10-runtime-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/target/resolution-cache/reports/default-example_2.10-runtime.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/target/resolution-cache/reports/default-example_2.10-scala-tool.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/target/resolution-cache/reports/default-example_2.10-sources.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/target/resolution-cache/reports/default-example_2.10-test-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/target/resolution-cache/reports/default-example_2.10-test.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/target/resolution-cache/reports/ivy-report.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/target/resolution-cache/reports/ivy-report.xsl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/target/streams/$global/$global/$global/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/target/streams/$global/ivyConfiguration/$global/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/target/streams/$global/ivySbt/$global/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/target/streams/$global/projectDescriptors/$global/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/target/streams/$global/update/$global/inputs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/target/streams/$global/update/$global/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/target/streams/$global/update/$global/output" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/target/streams/compile/compile/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/target/streams/compile/compile/$global/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/target/streams/compile/dependencyClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/target/streams/compile/externalDependencyClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/target/streams/compile/internalDependencyClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/target/streams/compile/managedClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/target/streams/compile/unmanagedClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/example/target/streams/compile/unmanagedJars/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/streams.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/target/.history" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/target/resolution-cache/default/courserascala_2.10/0.1-SNAPSHOT/resolved.xml.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/target/resolution-cache/default/courserascala_2.10/0.1-SNAPSHOT/resolved.xml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/target/resolution-cache/reports/default-courserascala_2.10-compile-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/target/resolution-cache/reports/default-courserascala_2.10-compile.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/target/resolution-cache/reports/default-courserascala_2.10-docs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/target/resolution-cache/reports/default-courserascala_2.10-optional.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/target/resolution-cache/reports/default-courserascala_2.10-plugin.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/target/resolution-cache/reports/default-courserascala_2.10-pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/target/resolution-cache/reports/default-courserascala_2.10-provided.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/target/resolution-cache/reports/default-courserascala_2.10-runtime-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/target/resolution-cache/reports/default-courserascala_2.10-runtime.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/target/resolution-cache/reports/default-courserascala_2.10-scala-tool.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/target/resolution-cache/reports/default-courserascala_2.10-sources.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/target/resolution-cache/reports/default-courserascala_2.10-test-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/target/resolution-cache/reports/default-courserascala_2.10-test.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/target/resolution-cache/reports/ivy-report.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/target/resolution-cache/reports/ivy-report.xsl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/target/streams/$global/$global/$global/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/target/streams/$global/ivyConfiguration/$global/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/target/streams/$global/ivySbt/$global/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/target/streams/$global/projectDescriptors/$global/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/target/streams/$global/update/$global/inputs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/target/streams/$global/update/$global/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/target/streams/$global/update/$global/output" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/target/streams/compile/compile/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/target/streams/compile/compile/$global/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/target/streams/compile/dependencyClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/target/streams/compile/externalDependencyClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/target/streams/compile/internalDependencyClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/target/streams/compile/managedClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/target/streams/compile/unmanagedClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CourseraScala/target/streams/compile/unmanagedJars/$global/export" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="QuickCheck.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/quickcheck/QuickCheck.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1512">
+              <caret line="84" column="67" lean-forward="false" selection-start-line="84" selection-start-column="67" selection-end-line="84" selection-end-column="67" />
+              <folding>
+                <element signature="e#20#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Heap.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/quickcheck/Heap.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="47" column="58" lean-forward="false" selection-start-line="47" selection-start-column="58" selection-end-line="47" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QuickCheckSuite.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/quickcheck/QuickCheckSuite.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/scala/quickcheck/QuickCheck.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="progfun2-quickcheck" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="quickcheck" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="progfun2-quickcheck" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="quickcheck" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="quickcheck" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="QuickCheckSuite.scala" />
+              <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="progfun2-quickcheck" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="quickcheck" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="quickcheck" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="progfun2-quickcheck" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="quickcheck" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="quickcheck" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="QuickCheck.scala" />
+              <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="progfun2-quickcheck" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="quickcheck" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="quickcheck" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Heap.scala" />
+              <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="progfun2-quickcheck" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="quickcheck" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.All in root">
+    <configuration default="false" name="All in root" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="root" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="root" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.All in root" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.All in root" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="lastUpdateTimestamp" value="1492888384305" />
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="progfun2-quickcheck" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="root" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="root-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5270fbd2-c3de-43ea-8e36-53a008bdb24f" name="Default" comment="" />
+      <created>1492888301320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1492888301320</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_in_root - 2017.04.22 at 15h 15m 12s.xml">
+      <configuration name="All in root" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_root - 2017.04.27 at 23h 24m 48s.xml">
+      <configuration name="All in root" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_root - 2017.04.27 at 23h 49m 01s.xml">
+      <configuration name="All in root" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_root - 2017.04.28 at 00h 00m 49s.xml">
+      <configuration name="All in root" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_root - 2017.04.28 at 00h 04m 35s.xml">
+      <configuration name="All in root" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_root - 2017.04.28 at 00h 18m 17s.xml">
+      <configuration name="All in root" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="KodeBeagle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT Execute" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32795697" sideWeight="0.35833332" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32795697" sideWeight="0.64166665" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/quickcheck/QuickCheck.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#20#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/quickcheck/Heap.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/quickcheck/QuickCheckSuite.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/quickcheck/QuickCheck.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#20#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/quickcheck/Heap.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/quickcheck/QuickCheckSuite.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/quickcheck/QuickCheck.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="15" lean-forward="false" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+          <folding>
+            <element signature="e#20#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/quickcheck/Heap.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="6" lean-forward="false" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/quickcheck/QuickCheckSuite.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="6" lean-forward="false" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/quickcheck/QuickCheckSuite.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scalacheck/scalacheck_2.11/srcs/scalacheck_2.11-1.12.1-sources.jar!/org/scalacheck/Properties.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="28" column="16" lean-forward="false" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scalacheck/scalacheck_2.11/srcs/scalacheck_2.11-1.12.1-sources.jar!/org/scalacheck/Arbitrary.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1044">
+          <caret line="69" column="6" lean-forward="false" selection-start-line="69" selection-start-column="6" selection-end-line="69" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/quickcheck/QuickCheck.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1512">
+          <caret line="84" column="67" lean-forward="false" selection-start-line="84" selection-start-column="67" selection-end-line="84" selection-end-column="67" />
+          <folding>
+            <element signature="e#20#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/quickcheck/Heap.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="47" column="58" lean-forward="false" selection-start-line="47" selection-start-column="58" selection-end-line="47" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>root</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>SBT: junit:junit:4.10:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
