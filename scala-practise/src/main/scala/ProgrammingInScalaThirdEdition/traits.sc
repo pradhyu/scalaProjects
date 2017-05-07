@@ -1,4 +1,4 @@
-
+import scala.collection.mutable.ArrayBuffer
 
 /*
   Traits in scala
@@ -38,9 +38,7 @@ bq.put(1)
 bq.put(2)
 bq.put(-1)
 // FIFO
-assert(bq.get() == 1)
-assert(bq.get() == 2)
-assert(bq.get() == -1)
+assert(bq.toString == ArrayBuffer(1, 2, -1).toString)
 bq.toString
 
 // Now we will create a trait to mix it with BasicIntQueue
@@ -52,7 +50,11 @@ bq.toString
 // IntQueue
 trait NegativeNumberFilter extends IntQueue {
   abstract override def put(x: Int): Unit = {
-    if (x >= 0) super.put(x)
+    if (x >= 0) {
+      super.put(x)
+    } else {
+      println("Can't insert negative number  " + x)
+    }
   }
 }
 
@@ -64,5 +66,24 @@ nonNegBq.put(-2)
 nonNegBq.put(3)
 nonNegBq.toString
 // -3 won't be inserted
-assert(nonNegBq.get() == 1)
-assert(nonNegBq.get() == 3)
+assert(nonNegBq.toString == ArrayBuffer(1,3).toString)
+
+// multiple traits tes
+// double the number before inserting to queue
+
+trait SquareIt extends IntQueue {
+  abstract override def put(x: Int): Unit = {
+    super.put(x * x)
+  }
+}
+
+// the with traits get applied from right to left when calling super
+// if super is called in trait it calls super in the left in the stack
+var nonNegDoubleBq = new BasicIntQueue with NegativeNumberFilter with SquareIt
+nonNegDoubleBq.put(1)
+nonNegDoubleBq.put(-2)
+nonNegDoubleBq.put(3)
+nonNegDoubleBq.toString
+// -3 won't be inserted
+assert(nonNegDoubleBq.toString == ArrayBuffer(1, 4, 9).toString)
+
