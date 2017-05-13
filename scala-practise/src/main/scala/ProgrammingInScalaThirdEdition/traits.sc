@@ -66,7 +66,7 @@ nonNegBq.put(-2)
 nonNegBq.put(3)
 nonNegBq.toString
 // -3 won't be inserted
-assert(nonNegBq.toString == ArrayBuffer(1,3).toString)
+assert(nonNegBq.toString == ArrayBuffer(1, 3).toString)
 
 // multiple traits tes
 // double the number before inserting to queue

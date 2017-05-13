@@ -1,6 +1,7 @@
 import com.github.takezoe.solr.scala._
 
-val client = new SolrClient("http://localhost:32769/solr/demo")
+// will change if you restart the solr_demo in docker
+val client = new SolrClient("http://localhost:32770/solr/demo")
 
 // register
 // ID must be unique
@@ -11,7 +12,6 @@ client
   .add(Map("id" -> "003", "manu" -> "Lenovo", "name" -> "ThinkPad X121e"))
   .add(Map("id" -> "004", "manu" -> "Lenovo", "name" -> "yoga 910"))
   .add(Map("id" -> "005", "manu" -> "Lenovo", "name" -> "Yoga 950"))
-
   .commit
 // query
 val result = client.query("{!term f=manu}Lenovo")
@@ -26,8 +26,6 @@ result.documents.foreach { doc: Map[String, Any] =>
 }
 
 
-
-
 // query for wslog
 val resultWslog = client.query("*:*")
   .fields("id", "servername", "category")
@@ -37,3 +35,10 @@ val resultWslog = client.query("*:*")
 resultWslog.documents.foreach { doc: Map[String, Any] =>
   println(doc)
 }
+
+
+
+// multi line queries doesn't work with scala repl
+val x = client.query("{!term f=manu}Lenovo").fields("id", "manu", "name").sortBy("id", Order.asc).getResultAsMap(Map("name" -> "ThinkPad"))
+x.documents.size
+
