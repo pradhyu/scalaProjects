@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jfarcand:jersey-ahc-client:1.0.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jfarcand/jersey-ahc-client/1.0.5/d7ce8de4863436c08729860d793fc18e595db3d9/jersey-ahc-client-1.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jfarcand/jersey-ahc-client/1.0.5/429b03215fab7bd7e2223d5f671c4e00c6997cdc/jersey-ahc-client-1.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
