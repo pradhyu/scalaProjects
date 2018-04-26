@@ -63,7 +63,7 @@ object Rational {
     println(2 * ra1)
     println(ra1 * 2.0f)
     println(2.0f * ra1) // need implicit conversion  to make this work
+    println( 1 * 1000)
   }
-
 
 }

@@ -81,9 +81,15 @@ Here again there’s only one implementation that compiles. Write this implement
  */
 
 def curry[A, B, C](f: (A, B) => C): A => (B => C) =
-  a => b => f(a,b)
+  a => (b => f(a,b))
+// since => is right associative you a => b => f(a,b) is same as a => (b => f(a,b))
 
 curry((x: Int, y: Int) => x + y)(1)(2)
+curry((x: String, y: String) => x +":" + y) ("testing")("stringcurring")
+val partialFun1= curry((x: String, y: String) => x +"-> " + y)
+val partialFun2=partialFun1("testing")
+partialFun2("currying")
+
 
 /*
 Exercise 2.4
@@ -107,5 +113,8 @@ def compose[A, B, C](f: B => C, g: A => B): A => C=
 // sample
 val f = (x: Double) => math.Pi / 2 -x
 val cos = f andThen math.sin
-cos(90)
+println(cos(90))
+
+/* Defining functional data structures */
+
 
