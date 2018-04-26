@@ -1,0 +1,6 @@
+**/*.class
+**/*.cache
+**/target
+**/.ensime_cache
+**/.idea
+**/*~
