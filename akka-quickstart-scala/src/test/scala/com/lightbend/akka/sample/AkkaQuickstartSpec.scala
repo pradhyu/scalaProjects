@@ -29,7 +29,7 @@ class AkkaQuickstartSpec(_system: ActorSystem)
     val testProbe = TestProbe()
     val helloGreetingMessage = "hello"
     val helloGreeter = system.actorOf(Greeter.props(helloGreetingMessage, testProbe.ref))
-    val greetPerson = "Akka"
+    val greetPerson = "Akka" 
     helloGreeter ! WhoToGreet(greetPerson)
     helloGreeter ! Greet
     testProbe.expectMsg(500 millis, Greeting(s"$helloGreetingMessage, $greetPerson"))

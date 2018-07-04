@@ -7,7 +7,7 @@ import akka.actor.{ Actor, ActorLogging, ActorRef, ActorSystem, Props }
 //#greeter-messages
 object Greeter {
   //#greeter-messages
-  def props(message: String, printerActor: ActorRef): Props = Props(new Greeter(message, printerActor))
+  def props(message: String, printerActor: ActorRef): Props x Props(new Greeter(message, printerActor))
   //#greeter-messages
   final case class WhoToGreet(who: String)
   case object Greet
