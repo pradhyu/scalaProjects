@@ -1,0 +1,39 @@
+//package fpinscala.odatastructures
+
+sealed trait List[+A]
+case object Nil extends List[Nothing]
+case class Cons[+A](head: A, tail: List[A]) extends List[A]
+
+// list object structure
+// functional data structure
+object List {
+  def sum(ints: List[Int]): Int = ints match {
+    case Nil => 0
+    case Cons(x,xs) => x + sum(xs)
+  }
+
+  def product(ds: List[Double]): Double = ds match {
+    case Nil => 1.0
+    case Cons(0.0, _) => 0.0
+    case Cons(x,xs) => x * product(xs)
+  }
+
+  def apply[A](as: A*): List[A] =
+    if (as.isEmpty) Nil
+    else Cons(as.head, apply(as.tail: _*))
+}
+
+println(List.product(List( 1 , 2, 3, 4)))
+
+val array=Array(2.0,4.0,5.0)
+// elements has to be double or it won't work
+
+// passing array to A* parameters Varargs
+println(List.product(List(array:_*)))
+
+// +A means positive side of A means, A could be subtype to pass, if Animal is expected you can pass dog.
+
+
+val tmp1 = List(1,2,3) match { case Cons(h, _) => h}
+val tmp2 = List(1,2,3) match { case Cons(_, t) => t}
+
