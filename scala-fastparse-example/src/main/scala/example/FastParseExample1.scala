@@ -21,6 +21,12 @@ object fastParseExampleMathParsing {
     }}
   }
 
+  val Parsed.Success(2, _) = expr.parse("1+1")
+  val Parsed.Success(15, _) = expr.parse("(1+1*2)+3*4")
+  val Parsed.Success(21, _) = expr.parse("((1+1*2)+(3*4*5))/3")
+  val Parsed.Failure(expected, failIndex, extra) = expr.parse("1+1*")
+  assert(expected == (number | parens), failIndex == 4)
+
 
 
  }
