@@ -1,6 +1,7 @@
 // CodeListing.scala
 package codelisting
 import java.io.FileNotFoundException
+import scala.io
 
 class ExtensionException(name:String)
   extends Exception(

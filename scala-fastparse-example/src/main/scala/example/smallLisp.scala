@@ -38,5 +38,8 @@ object SExpressionParser {
   }
 }
 
-object SmallLispEvaluator {
+object SmallLispEvaluator extends App{
+  import SExpressionParser._
+  println(expression.parse("0")) 
 }
+ 
